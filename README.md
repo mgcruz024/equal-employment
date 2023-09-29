@@ -18,4 +18,4 @@ Will be updated as the semester progresses (Fall 2023).
 
 Statistics from US Census data included.
 
-Data retrieved from https://www.eeoc.gov/data/job-patterns-minorities-and-women-private-industry-eeo-1-0
+Data retrieved from https://www.eeoc.gov/data/job-patterns-minorities-and-women-private-industry-eeo-1-0.
