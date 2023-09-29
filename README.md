@@ -9,5 +9,5 @@ Features business and technical documentation, data cleansing and transformation
 and visualizations (Tableau). 
 
 ## Notes
-Will be updated as the semester progresses (Fall 2023). 
-Statistics from US Census data included.
+- Will be updated as the semester progresses (Fall 2023). 
+- Statistics from US Census data included.
