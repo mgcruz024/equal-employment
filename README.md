@@ -12,7 +12,7 @@ The goal is to present insights to U.S. executives and representatives (local an
 - Data cleansing and transformation (pandas & numpy)
 - Regressional and predictive modeling (scikit-learn)
 - Correlation analysis (seaborn)
-- Visualizations (Tableau)
+- Charts and dashboards (Tableau)
 
 ## Notes
 Will be updated as the semester progresses (Fall 2023). 
