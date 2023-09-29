@@ -1,4 +1,4 @@
-# M.S. Information Systems Capstone on Equal Employment Opportunity Data 
+# M.S. Information Systems Capstone on Equal Employment Opportunity 
 
 <img src="Screenshots/eeoc_logo.png" width="650" height="375" />
 
