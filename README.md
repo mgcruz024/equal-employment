@@ -6,7 +6,7 @@ Capstone project on Equal Employment Opportunity (EEO) private industry data fro
 income backgrounds across 1,237 countries in the United States. The goal is to present insights to executives and U.S. representatives (local and state) for the promotion of equal employment throughout
 the entire country. 
 
-Features business and technical documentation, data exploration and transformation (pandas & numpy), regressional modeling and correlation analysis (scikit-learn & seaborn),
+Features business and technical documentation, data cleansing and transformation (pandas & numpy), regressional and predictive modeling (scikit-learn), correlation analysis (seaborn),
 and visualizations (Tableau). 
 
 ## Notes
