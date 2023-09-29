@@ -1,4 +1,4 @@
-# M.S. Information Systems Capstone Project on Equal Employment Opportunity Data. 
+# M.S. Information Systems Capstone Project on Equal Employment Opportunity Data 
 
 <img src="Screenshots/World_Bank.jpeg.jpg" width="650" height="375" />
 
