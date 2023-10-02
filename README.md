@@ -15,7 +15,7 @@ The goal is to present insights to U.S. executives and representatives (local an
 - Charts and dashboards (Tableau)
 
 ## Notes
-Will be updated as the semester progresses (Fall 2023). 
+Will be updated gradually.
 
 Statistics from US Census data included.
 
