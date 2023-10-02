@@ -1,6 +1,6 @@
 # Equal Employment Opportunity Analysis
 
-<img src="Screenshots/eeoc_logo.png" width="650" height="375" />
+<img src="eeoc_logo.png" width="650" height="375" />
 
 A research on occupation trends and relationships among the different minority groups, genders, and income backgrounds across 1,237 counties 
 in the United States using [EEO private industry data from 2016 to 2021.](https://www.eeoc.gov/data/job-patterns-minorities-and-women-private-industry-eeo-1-0)
